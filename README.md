@@ -1,2 +1,3 @@
 # teste_Machine_Learning
-Teste funcional de Machine Learning, a qual separa e predita se são cachorros ou porcos.
+Teste funcional de Machine Learning, utilizando bibliotecas como Matplotlib e Pandas.
+Predição por meio de métricas para determinar o gráfico.
